@@ -1,2 +1,3 @@
-# hosa-code
-Get this code off my computer
+# simple-cors-test
+simple test to check the cors status of a website
+

@@ -5,7 +5,7 @@ function main()
     $.ajax
     ({
         dataType: "ajax",
-        url: "https://hosa.mxwbqdez-liquidwebsites.com",
+        url: "<URL>",
         success: function(data)
         {
             console.log("log response on success");
